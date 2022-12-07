@@ -21,12 +21,7 @@ Através dos dados históricos de diferentes campeonatos de fórmula 1, criar um
 
 Os dados foram obtidos através da API do site ERGAST e via web scraping no wikipedia. No EDA exploramos as principais características que poderiam fazer diferença, como por exemplo o desempenho na chuva e a idade do piloto no momento da corrida. Testamos vários algoritmos de machine learning e o que teve o melhor desempenho foi o Gradient Boosting. Após a criação do modelo, foi criado um método que recebe como parâmetro o nome da corrida e as condições climáticas para predizer quais pilotos pontuariam nesta corrida.
 
-![aws drawio (1)](https://user-images.githubusercontent.com/36771470/206059395-c7776a41-694b-4c97-8538-b38427dfe3a0.png)
-
-
-# Organização do repositório
-
-Neste repositório contém o arquivo notebook *ML_Formula1_IFSP.ipynb* com a solução que foi executada no AWS Sagemaker, as pastas *datasets* e *models*, a primeira contém a base de dados e conjuntos de dados auxiliares gerados no notebook e a outra pasta contém o deploy do melhor modelo utilizado na solução e os dicionários gerados a partir do banco de dados que auxiliam na predição.
+![pi-mlops](https://user-images.githubusercontent.com/36771470/206053071-76f7537d-61bb-495f-b63f-4835d661dbf8.png)
 
 Técnicas e Ferramentas utilizadas:
 - API Ergast como fonte de dados
@@ -37,6 +32,11 @@ Técnicas e Ferramentas utilizadas:
 - Sagemaker Canvas como experimento NO-CODE
 - Framework Well-Architected machine learning da AWS 
 (https://docs.aws.amazon.com/wellarchitected/latest/machine-learning-lens/well-architected-machine-learning.html)
+
+
+# Organização do repositório
+
+Neste repositório contém o arquivo notebook *ML_Formula1_IFSP.ipynb* com a solução que foi executada no AWS Sagemaker, as pastas *datasets* e *models*, a primeira contém a base de dados e conjuntos de dados auxiliares gerados no notebook e a outra pasta contém o deploy do melhor modelo utilizado na solução e os dicionários gerados a partir do banco de dados que auxiliam na predição.
 
 
 # Resultados
