@@ -24,16 +24,11 @@ Os dados foram obtidos através da API do site ERGAST e via web scraping no wiki
 ![pi-mlops](https://user-images.githubusercontent.com/36771470/206053071-76f7537d-61bb-495f-b63f-4835d661dbf8.png)
 
 
-# Resultados
-
-Como teste, utilizamos o modelo para prever o resultado da etapa de Abu Dhabi, o qual teve muito sucesso nesta predição, acertando os dois primeiros resultados e algumas outras posições.
-
-
 # Organização do repositório
 
 Neste repositório contém o arquivo notebook *ML_Formula1_IFSP.ipynb* com a solução que foi executada no AWS Sagemaker, as pastas *datasets* e *models*, a primeira contém a base de dados e conjuntos de dados auxiliares gerados no notebook e a outra pasta contém o deploy do melhor modelo utilizado na solução e os dicionários gerados a partir do banco de dados que auxiliam na predição.
 
-* Técnicas e Ferramentas utilizadas:
+Técnicas e Ferramentas utilizadas:
 - API Ergast como fonte de dados
 - Web scraping da wikipedia
 - Lambda para obter dados da API Ergast
@@ -42,6 +37,12 @@ Neste repositório contém o arquivo notebook *ML_Formula1_IFSP.ipynb* com a sol
 - Sagemaker Canvas como experimento NO-CODE
 - Framework Well-Architected machine learning da AWS 
 (https://docs.aws.amazon.com/wellarchitected/latest/machine-learning-lens/well-architected-machine-learning.html)
+
+
+# Resultados
+
+Como teste, utilizamos o modelo para prever o resultado da etapa de Abu Dhabi, o qual teve muito sucesso nesta predição, acertando os dois primeiros resultados e algumas outras posições.
+
 
 # Apresentação
 Devido ao tamanho do arquivo, não foi possível inseri-lo neste repositório, porém o mesmo pode ser acessado no link a seguir https://docs.google.com/presentation/d/1gSL6GKN2YgOdZdskPTa1dAJYDr12xfU3/edit?usp=sharing&ouid=110459252710040925144&rtpof=true&sd=true
