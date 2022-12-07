@@ -1,6 +1,6 @@
 # Predição do Campeonato de Fórmula 1
 
-## Especialização em Ciência de Dados pelo IFSP Campinas 
+## Especialização em Ciência de Dados (IFSP Campinas)
 #### Projeto Interdisciplinar - 2o. Semestre
 
 Equipe:
