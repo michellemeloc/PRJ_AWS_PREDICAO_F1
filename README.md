@@ -21,7 +21,7 @@ Através dos dados históricos de diferentes campeonatos de fórmula 1, criar um
 
 Os dados foram obtidos através da API do site ERGAST e via web scraping no wikipedia. No EDA exploramos as principais características que poderiam fazer diferença, como por exemplo o desempenho na chuva e a idade do piloto no momento da corrida. Testamos vários algoritmos de machine learning e o que teve o melhor desempenho foi o Gradient Boosting. Após a criação do modelo, foi criado um método que recebe como parâmetro o nome da corrida e as condições climáticas para predizer quais pilotos pontuariam nesta corrida.
 
-![pi-mlops](https://user-images.githubusercontent.com/36771470/206053071-76f7537d-61bb-495f-b63f-4835d661dbf8.png)
+![aws drawio (1)](https://user-images.githubusercontent.com/36771470/206059395-c7776a41-694b-4c97-8538-b38427dfe3a0.png)
 
 
 # Organização do repositório
