@@ -1,0 +1,532 @@
+GP_name,quali_pos,driver,age_at_gp_in_days,position,driver_confidence,constructor,constructor_confidence,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy
+Losail International Circuit,10,Sebastian Vettel,12560,10.0,0.9297658862876255,Aston Martin,0.5879396984924623,1,0,0,0,0
+Circuit de Monaco,2,Valtteri Bottas,10863,3.0,0.95,Mercedes,0.8635547576301615,0,0,0,0,1
+Bahrain International Circuit,4,Lewis Hamilton,9197,3.0,0.941747572815534,McLaren,0.6156369600874795,1,0,0,0,0
+Circuit of the Americas,7,Fernando Alonso,11435,3.0,0.9411764705882353,Ferrari,0.6221178479931682,0,0,0,0,0
+Bahrain International Circuit,8,Carlos Sainz,9705,8.0,0.9012345679012346,Ferrari,0.6221178479931682,0,0,0,0,0
+Jeddah Corniche Circuit,19,Mick Schumacher,8294,,0.9302325581395349,Haas F1 Team,0.3671328671328671,1,0,0,0,0
+Circuit de Spa-Francorchamps,11,Nico Hülkenberg,10231,,0.9021739130434783,Aston Martin,0.5879396984924623,0,0,0,0,0
+Autódromo Hermanos Rodríguez,17,Kevin Magnussen,9883,15.0,0.9290780141843972,Haas F1 Team,0.3671328671328671,0,0,0,0,1
+Yas Marina Circuit,9,Esteban Ocon,8104,,0.9545454545454546,Aston Martin,0.5879396984924623,0,0,0,0,0
+Autodromo Nazionale di Monza,6,Sebastian Vettel,11020,3.0,0.9297658862876255,Ferrari,0.6221178479931682,1,0,0,0,0
+Autódromo Internacional do Algarve,8,Lando Norris,7652,13.0,0.9506172839506173,McLaren,0.6156369600874795,0,0,0,0,1
+Red Bull Ring,7,Max Verstappen,6473,8.0,0.9074074074074074,AlphaTauri,0.47560975609756095,0,0,0,0,0
+Marina Bay Street Circuit,12,Carlos Sainz,8781,8.0,0.9012345679012346,Alpine F1,0.5452775073028238,0,0,0,0,0
+Red Bull Ring,4,Max Verstappen,7579,1.0,0.9074074074074074,Red Bull,0.776657060518732,1,0,0,0,0
+Silverstone Circuit,8,Fernando Alonso,8026,,0.9411764705882353,Alpine F1,0.5452775073028238,1,0,0,0,1
+Albert Park Grand Prix Circuit,3,Sebastian Vettel,10488,3.0,0.9297658862876255,Ferrari,0.6221178479931682,0,0,0,0,0
+Silverstone Circuit,1,Fernando Alonso,9083,1.0,0.9411764705882353,Alpine F1,0.5452775073028238,1,0,0,0,0
+Yas Marina Circuit,2,Lewis Hamilton,13488,2.0,0.941747572815534,Mercedes,0.8635547576301615,1,0,0,0,0
+Circuit Paul Ricard,4,Max Verstappen,7936,4.0,0.9074074074074074,Red Bull,0.776657060518732,1,0,0,0,0
+Marina Bay Street Circuit,4,Valtteri Bottas,10611,4.0,0.95,Mercedes,0.8635547576301615,0,0,0,0,0
+Red Bull Ring,12,Daniel Ricciardo,10956,12.0,0.9523809523809523,Alpine F1,0.5452775073028238,0,0,0,0,0
+Autódromo José Carlos Pace,12,Sergio Pérez,8339,,0.9364406779661016,Alfa Romeo,0.38107202680067,0,0,0,1,0
+Autodromo Nazionale di Monza,5,Charles Leclerc,8732,4.0,0.892156862745098,Ferrari,0.6221178479931682,1,0,0,0,0
+Circuit de Spa-Francorchamps,1,Lewis Hamilton,13019,1.0,0.941747572815534,Mercedes,0.8635547576301615,0,0,0,0,1
+Circuit de Spa-Francorchamps,5,Sebastian Vettel,12476,5.0,0.9297658862876255,Aston Martin,0.5879396984924623,0,0,0,1,0
+Circuit de Monaco,6,Carlos Sainz,7941,8.0,0.9012345679012346,AlphaTauri,0.47560975609756095,0,0,1,1,0
+Circuit de Monaco,8,Sebastian Vettel,12378,5.0,0.9297658862876255,Aston Martin,0.5879396984924623,1,0,0,0,0
+Autódromo Internacional do Algarve,15,Sebastian Vettel,12168,10.0,0.9297658862876255,Ferrari,0.6221178479931682,0,0,0,0,1
+Autódromo Hermanos Rodríguez,11,Sergio Pérez,10866,7.0,0.9364406779661016,Aston Martin,0.5879396984924623,0,0,0,0,1
+Circuit de Barcelona-Catalunya,13,Nico Hülkenberg,8299,16.0,0.9021739130434783,Williams,0.5628553379658876,0,0,1,0,0
+Sochi Autodrom,14,Fernando Alonso,12695,6.0,0.9411764705882353,McLaren,0.6156369600874795,0,0,0,0,0
+Marina Bay Street Circuit,4,Max Verstappen,6928,6.0,0.9074074074074074,Red Bull,0.776657060518732,0,0,0,0,0
+Korean International Circuit,2,Lewis Hamilton,10499,5.0,0.941747572815534,Mercedes,0.8635547576301615,0,0,0,0,1
+Silverstone Circuit,3,Valtteri Bottas,11647,3.0,0.95,Mercedes,0.8635547576301615,0,0,0,0,0
+Istanbul Park,14,Sebastian Vettel,7618,17.0,0.9297658862876255,AlphaTauri,0.47560975609756095,1,0,0,0,0
+Circuit de Monaco,1,Sebastian Vettel,8731,1.0,0.9297658862876255,Red Bull,0.776657060518732,1,0,0,0,0
+Silverstone Circuit,9,Esteban Ocon,9070,9.0,0.9545454545454546,Alpine F1,0.5452775073028238,0,0,0,0,0
+Bahrain International Circuit,2,Valtteri Bottas,11416,8.0,0.95,Mercedes,0.8635547576301615,1,0,0,0,0
+Sepang International Circuit,7,Fernando Alonso,8999,2.0,0.9411764705882353,Alpine F1,0.5452775073028238,0,0,0,0,0
+Autodromo Nazionale di Monza,3,Esteban Ocon,7656,6.0,0.9545454545454546,Aston Martin,0.5879396984924623,1,0,0,0,0
+Marina Bay Street Circuit,15,Daniel Ricciardo,8485,9.0,0.9523809523809523,AlphaTauri,0.47560975609756095,1,0,0,0,0
+Suzuka Circuit,15,Nico Hülkenberg,11743,,0.9021739130434783,Alpine F1,0.5452775073028238,1,0,0,0,0
+Sepang International Circuit,15,Carlos Sainz,7514,8.0,0.9012345679012346,AlphaTauri,0.47560975609756095,0,0,0,0,0
+Marina Bay Street Circuit,18,Lance Stroll,6898,8.0,0.8925619834710744,Williams,0.5628553379658876,0,0,0,1,0
+Bahrain International Circuit,3,Max Verstappen,8461,2.0,0.9074074074074074,Red Bull,0.776657060518732,1,0,0,0,0
+Istanbul Park,4,Fernando Alonso,9524,3.0,0.9411764705882353,McLaren,0.6156369600874795,1,0,0,0,0
+Sochi Autodrom,5,Carlos Sainz,9159,6.0,0.9012345679012346,McLaren,0.6156369600874795,0,0,0,0,1
+Circuit de Nevers Magny-Cours,7,Fernando Alonso,8012,,0.9411764705882353,Alpine F1,0.5452775073028238,0,0,0,0,0
+Autódromo Hermanos Rodríguez,4,Daniel Ricciardo,9983,3.0,0.9523809523809523,Red Bull,0.776657060518732,1,0,0,0,0
+Valencia Street Circuit,11,Fernando Alonso,11288,1.0,0.9411764705882353,Ferrari,0.6221178479931682,1,0,0,0,0
+Autodromo Nazionale di Monza,8,Alexander Albon,8569,6.0,0.9310344827586207,Red Bull,0.776657060518732,0,0,0,0,1
+Circuit Gilles Villeneuve,6,Daniel Ricciardo,10571,4.0,0.9523809523809523,Red Bull,0.776657060518732,0,0,0,0,0
+Autodromo Nazionale di Monza,8,Nico Hülkenberg,8425,7.0,0.9021739130434783,Williams,0.5628553379658876,1,0,0,0,0
+Valencia Street Circuit,8,Nico Hülkenberg,9076,5.0,0.9021739130434783,Aston Martin,0.5879396984924623,1,0,0,0,0
+Circuit of the Americas,9,Daniel Ricciardo,11082,6.0,0.9523809523809523,Alpine F1,0.5452775073028238,1,0,0,0,0
+Autodromo Nazionale di Monza,13,Nicholas Latifi,9572,11.0,0.8333333333333334,Williams,0.5628553379658876,1,0,0,0,0
+Yas Marina Circuit,18,Nicholas Latifi,9299,17.0,0.8333333333333334,Williams,0.5628553379658876,1,0,0,0,0
+Marina Bay Street Circuit,1,Fernando Alonso,10651,1.0,0.9411764705882353,Ferrari,0.6221178479931682,0,0,0,0,0
+Circuit de Monaco,20,Max Verstappen,7544,9.0,0.9074074074074074,Red Bull,0.776657060518732,0,0,0,0,0
+Autodromo Nazionale di Monza,10,Fernando Alonso,11365,3.0,0.9411764705882353,Ferrari,0.6221178479931682,0,0,1,0,0
+Hockenheimring,6,Sebastian Vettel,10621,5.0,0.9297658862876255,Ferrari,0.6221178479931682,0,0,1,0,1
+Suzuka Circuit,13,Nico Hülkenberg,10266,6.0,0.9021739130434783,Aston Martin,0.5879396984924623,0,0,0,0,0
+Circuit of the Americas,7,Sergio Pérez,8696,7.0,0.9364406779661016,McLaren,0.6156369600874795,0,0,0,0,0
+Autódromo Internacional do Algarve,14,Yuki Tsunoda,7661,15.0,0.9069767441860466,AlphaTauri,0.47560975609756095,0,0,0,0,0
+Silverstone Circuit,10,Lewis Hamilton,9680,4.0,0.941747572815534,McLaren,0.6156369600874795,0,0,0,1,0
+Silverstone Circuit,13,Nico Hülkenberg,8362,10.0,0.9021739130434783,Williams,0.5628553379658876,1,0,0,0,0
+Autódromo José Carlos Pace,8,Carlos Sainz,8473,11.0,0.9012345679012346,Alpine F1,0.5452775073028238,0,0,0,0,0
+Circuit Gilles Villeneuve,2,Lewis Hamilton,10744,,0.941747572815534,Mercedes,0.8635547576301615,0,0,0,0,0
+Marina Bay Street Circuit,6,Carlos Sainz,8053,14.0,0.9012345679012346,AlphaTauri,0.47560975609756095,0,0,0,0,0
+Suzuka Circuit,2,Sebastian Vettel,11055,,0.9297658862876255,Ferrari,0.6221178479931682,1,0,0,0,0
+Circuit de Spa-Francorchamps,5,Daniel Ricciardo,9920,2.0,0.9523809523809523,Red Bull,0.776657060518732,0,0,1,0,1
+Bahrain International Circuit,10,Carlos Sainz,8620,11.0,0.9012345679012346,Alpine F1,0.5452775073028238,0,0,0,0,0
+Circuit de Barcelona-Catalunya,2,Lewis Hamilton,11080,2.0,0.941747572815534,Mercedes,0.8635547576301615,0,0,0,0,0
+Autódromo José Carlos Pace,18,Mick Schumacher,8273,18.0,0.9302325581395349,Haas F1 Team,0.3671328671328671,1,0,0,0,0
+Hungaroring,7,Fernando Alonso,9867,4.0,0.9411764705882353,Alpine F1,0.5452775073028238,0,0,0,0,0
+Sepang International Circuit,2,Sebastian Vettel,9767,3.0,0.9297658862876255,Red Bull,0.776657060518732,0,0,0,0,0
+Autódromo Hermanos Rodríguez,19,Esteban Ocon,9182,13.0,0.9545454545454546,Alpine F1,0.5452775073028238,1,0,0,0,0
+Autodromo Nazionale di Monza,12,Fernando Alonso,12821,14.0,0.9411764705882353,McLaren,0.6156369600874795,1,0,0,0,0
+Red Bull Ring,18,Alexander Albon,8499,15.0,0.9310344827586207,AlphaTauri,0.47560975609756095,0,0,0,0,0
+Circuit Gilles Villeneuve,11,Carlos Sainz,9047,11.0,0.9012345679012346,McLaren,0.6156369600874795,0,0,0,0,0
+Red Bull Ring,11,Sebastian Vettel,12420,17.0,0.9297658862876255,Aston Martin,0.5879396984924623,0,0,0,0,1
+Bahrain International Circuit,1,Charles Leclerc,7836,3.0,0.892156862745098,Ferrari,0.6221178479931682,1,0,0,0,0
+Autodromo Nazionale di Monza,2,Fernando Alonso,8803,2.0,0.9411764705882353,Alpine F1,0.5452775073028238,1,0,0,0,0
+Shanghai International Circuit,7,Nico Hülkenberg,11197,6.0,0.9021739130434783,Alpine F1,0.5452775073028238,0,0,0,0,0
+Circuit Gilles Villeneuve,18,Kevin Magnussen,9015,12.0,0.9290780141843972,Haas F1 Team,0.3671328671328671,1,0,0,0,0
+Jeddah Corniche Circuit,7,Lando Norris,8058,10.0,0.9506172839506173,McLaren,0.6156369600874795,1,0,0,0,0
+Autodromo Internazionale del Mugello,6,Lance Stroll,7990,,0.8925619834710744,Aston Martin,0.5879396984924623,1,0,0,0,0
+Bahrain International Circuit,13,Daniel Ricciardo,9045,4.0,0.9523809523809523,Red Bull,0.776657060518732,0,0,1,0,0
+Red Bull Ring,1,Valtteri Bottas,11269,1.0,0.95,Mercedes,0.8635547576301615,1,0,0,0,0
+Sochi Autodrom,5,Daniel Ricciardo,10165,,0.9523809523809523,Red Bull,0.776657060518732,0,0,0,0,0
+Baku City Circuit,4,Max Verstappen,7880,4.0,0.9074074074074074,Red Bull,0.776657060518732,0,0,0,0,0
+Albert Park Grand Prix Circuit,11,Max Verstappen,6375,,0.9074074074074074,AlphaTauri,0.47560975609756095,0,0,0,0,0
+Autodromo Nazionale di Monza,3,Lewis Hamilton,12291,1.0,0.941747572815534,Mercedes,0.8635547576301615,0,0,0,0,0
+Autodromo Enzo e Dino Ferrari,3,Max Verstappen,8433,,0.9074074074074074,Red Bull,0.776657060518732,0,0,0,0,1
+Istanbul Park,16,Lewis Hamilton,8917,13.0,0.941747572815534,McLaren,0.6156369600874795,1,0,0,0,0
+Bahrain International Circuit,13,Nico Hülkenberg,8243,14.0,0.9021739130434783,Williams,0.5628553379658876,1,0,0,0,0
+Autódromo José Carlos Pace,7,Fernando Alonso,11442,2.0,0.9411764705882353,Ferrari,0.6221178479931682,0,0,0,1,0
+Sepang International Circuit,6,Max Verstappen,6389,7.0,0.9074074074074074,AlphaTauri,0.47560975609756095,0,0,0,0,0
+Shanghai International Circuit,1,Fernando Alonso,8845,1.0,0.9411764705882353,Alpine F1,0.5452775073028238,1,0,0,0,0
+Yas Marina Circuit,2,Lewis Hamilton,10912,1.0,0.941747572815534,Mercedes,0.8635547576301615,1,0,0,0,0
+Circuit de Barcelona-Catalunya,3,Fernando Alonso,7949,2.0,0.9411764705882353,Alpine F1,0.5452775073028238,1,0,0,0,0
+Shanghai International Circuit,3,Fernando Alonso,11582,1.0,0.9411764705882353,Ferrari,0.6221178479931682,0,0,0,0,0
+Autódromo José Carlos Pace,6,Fernando Alonso,9958,2.0,0.9411764705882353,Alpine F1,0.5452775073028238,0,0,1,1,0
+Yas Marina Circuit,15,Fernando Alonso,10322,14.0,0.9411764705882353,Alpine F1,0.5452775073028238,0,0,1,0,0
+Baku City Circuit,1,Valtteri Bottas,10835,1.0,0.95,Mercedes,0.8635547576301615,0,0,0,0,0
+Circuit de Monaco,7,Lewis Hamilton,13285,7.0,0.941747572815534,Mercedes,0.8635547576301615,1,0,0,0,0
+Yas Marina Circuit,16,George Russell,8337,15.0,0.9259259259259259,Williams,0.5628553379658876,1,0,0,0,0
+Shanghai International Circuit,4,Sebastian Vettel,10516,2.0,0.9297658862876255,Ferrari,0.6221178479931682,0,0,0,0,0
+Istanbul Park,4,Pierre Gasly,9377,6.0,0.9345794392523364,AlphaTauri,0.47560975609756095,0,0,0,1,1
+Hungaroring,2,Valtteri Bottas,11661,,0.95,Mercedes,0.8635547576301615,0,0,0,1,0
+Autódromo Hermanos Rodríguez,1,Lewis Hamilton,11619,1.0,0.941747572815534,Mercedes,0.8635547576301615,1,0,0,0,0
+Marina Bay Street Circuit,4,Sebastian Vettel,9942,2.0,0.9297658862876255,Red Bull,0.776657060518732,0,0,0,0,0
+Autodromo Nazionale di Monza,2,Lewis Hamilton,8280,2.0,0.941747572815534,McLaren,0.6156369600874795,1,0,0,0,0
+Circuit of the Americas,5,Lewis Hamilton,12718,2.0,0.941747572815534,Mercedes,0.8635547576301615,1,0,0,0,0
+Circuit Gilles Villeneuve,7,Nico Hülkenberg,11617,7.0,0.9021739130434783,Alpine F1,0.5452775073028238,0,0,0,0,0
+Hungaroring,18,Daniel Ricciardo,8429,15.0,0.9523809523809523,AlphaTauri,0.47560975609756095,1,0,0,0,0
+Circuit de Barcelona-Catalunya,19,Nicholas Latifi,9180,18.0,0.8333333333333334,Williams,0.5628553379658876,0,0,0,0,1
+Autódromo José Carlos Pace,8,Fernando Alonso,8488,4.0,0.9411764705882353,Alpine F1,0.5452775073028238,0,0,0,0,0
+Red Bull Ring,2,Max Verstappen,8314,,0.9074074074074074,Red Bull,0.776657060518732,1,0,0,0,0
+Circuit Paul Ricard,3,Sebastian Vettel,11314,5.0,0.9297658862876255,Ferrari,0.6221178479931682,1,0,1,0,0
+Bahrain International Circuit,15,Valtteri Bottas,8637,14.0,0.95,Williams,0.5628553379658876,0,0,0,0,0
+Circuit de Monaco,11,Nico Hülkenberg,10140,11.0,0.9021739130434783,Aston Martin,0.5879396984924623,0,0,0,0,0
+Losail International Circuit,9,Esteban Ocon,9196,5.0,0.9545454545454546,Alpine F1,0.5452775073028238,1,0,0,0,0
+Hungaroring,14,Sergio Pérez,8220,14.0,0.9364406779661016,Alfa Romeo,0.38107202680067,1,0,0,0,0
+Autódromo Hermanos Rodríguez,10,Carlos Sainz,8095,16.0,0.9012345679012346,AlphaTauri,0.47560975609756095,1,0,0,0,0
+Autodromo Nazionale di Monza,2,Daniel Ricciardo,11761,1.0,0.9523809523809523,McLaren,0.6156369600874795,1,0,0,0,0
+Hungaroring,11,Sebastian Vettel,7702,,0.9297658862876255,AlphaTauri,0.47560975609756095,0,0,0,0,0
+Albert Park Grand Prix Circuit,15,Valtteri Bottas,8966,5.0,0.95,Williams,0.5628553379658876,0,0,0,0,0
+Sochi Autodrom,6,Carlos Sainz,9523,,0.9012345679012346,McLaren,0.6156369600874795,1,0,0,0,0
+Suzuka Circuit,4,Daniel Ricciardo,9962,6.0,0.9523809523809523,Red Bull,0.776657060518732,0,0,0,0,1
+Istanbul Park,1,Valtteri Bottas,11731,1.0,0.95,Mercedes,0.8635547576301615,0,0,0,1,1
+Circuit de Barcelona-Catalunya,10,Fernando Alonso,14529,17.0,0.9411764705882353,Alpine F1,0.5452775073028238,0,0,0,0,1
+Circuit Gilles Villeneuve,4,Fernando Alonso,7991,4.0,0.9411764705882353,Alpine F1,0.5452775073028238,1,0,0,0,1
+Circuit de Barcelona-Catalunya,1,Lewis Hamilton,11451,,0.941747572815534,Mercedes,0.8635547576301615,0,0,0,0,0
+Autodromo Nazionale di Monza,15,Charles Leclerc,7626,11.0,0.892156862745098,Alfa Romeo,0.38107202680067,0,0,0,0,0
+Circuit de Spa-Francorchamps,9,Fernando Alonso,11715,2.0,0.9411764705882353,Ferrari,0.6221178479931682,0,0,0,0,0
+Autódromo Internacional do Algarve,4,Charles Leclerc,8410,4.0,0.892156862745098,Ferrari,0.6221178479931682,0,0,0,0,1
+Silverstone Circuit,4,Lewis Hamilton,9316,2.0,0.941747572815534,McLaren,0.6156369600874795,1,0,0,0,0
+Circuit de Barcelona-Catalunya,3,Fernando Alonso,8684,2.0,0.9411764705882353,Alpine F1,0.5452775073028238,1,0,0,0,0
+Red Bull Ring,12,Pierre Gasly,8915,7.0,0.9345794392523364,AlphaTauri,0.47560975609756095,1,0,0,0,0
+Circuit Gilles Villeneuve,2,Lewis Hamilton,12571,1.0,0.941747572815534,Mercedes,0.8635547576301615,0,0,0,0,0
+Shanghai International Circuit,16,Valtteri Bottas,8630,13.0,0.95,Williams,0.5628553379658876,0,0,0,0,0
+Autodromo Nazionale di Monza,4,Fernando Alonso,8446,,0.9411764705882353,Alpine F1,0.5452775073028238,0,0,1,1,0
+Circuit Gilles Villeneuve,5,Max Verstappen,6830,4.0,0.9074074074074074,Red Bull,0.776657060518732,0,0,0,0,0
+Circuit de Spa-Francorchamps,3,Fernando Alonso,9545,3.0,0.9411764705882353,McLaren,0.6156369600874795,1,0,1,0,0
+Circuit Gilles Villeneuve,18,George Russell,7784,16.0,0.9259259259259259,Williams,0.5628553379658876,0,0,0,0,0
+Circuit de Spa-Francorchamps,8,Valtteri Bottas,9862,8.0,0.95,Williams,0.5628553379658876,0,0,1,0,1
+Red Bull Ring,6,Alexander Albon,8877,4.0,0.9310344827586207,Red Bull,0.776657060518732,1,0,0,0,0
+Suzuka Circuit,3,Daniel Ricciardo,10326,3.0,0.9523809523809523,Red Bull,0.776657060518732,1,0,0,0,0
+Hungaroring,1,Lewis Hamilton,10065,1.0,0.941747572815534,McLaren,0.6156369600874795,1,0,0,0,0
+Circuit de Spa-Francorchamps,20,Valtteri Bottas,8763,15.0,0.95,Williams,0.5628553379658876,0,0,0,0,0
+Baku City Circuit,19,Lance Stroll,8256,,0.8925619834710744,Aston Martin,0.5879396984924623,1,0,0,0,0
+Autódromo José Carlos Pace,19,Daniel Ricciardo,9633,11.0,0.9523809523809523,Red Bull,0.776657060518732,0,0,0,0,0
+Sochi Autodrom,8,Sergio Pérez,11566,9.0,0.9364406779661016,Red Bull,0.776657060518732,0,0,0,1,1
+Sochi Autodrom,9,Pierre Gasly,8999,9.0,0.9345794392523364,AlphaTauri,0.47560975609756095,1,0,0,0,0
+Albert Park Grand Prix Circuit,7,Carlos Sainz,7871,9.0,0.9012345679012346,AlphaTauri,0.47560975609756095,0,0,0,0,0
+Circuit de Monaco,11,Nico Hülkenberg,11603,13.0,0.9021739130434783,Alpine F1,0.5452775073028238,0,0,0,0,1
+Circuit de Monaco,12,Daniel Ricciardo,11649,12.0,0.9523809523809523,McLaren,0.6156369600874795,1,0,0,0,0
+Autódromo Hermanos Rodríguez,16,George Russell,8666,16.0,0.9259259259259259,Williams,0.5628553379658876,1,0,0,0,0
+Albert Park Grand Prix Circuit,12,Fernando Alonso,13024,,0.9411764705882353,McLaren,0.6156369600874795,0,0,0,0,0
+Autódromo Internacional do Algarve,19,Kevin Magnussen,10247,16.0,0.9290780141843972,Haas F1 Team,0.3671328671328671,0,0,0,0,1
+Marina Bay Street Circuit,5,Lewis Hamilton,10485,5.0,0.941747572815534,Mercedes,0.8635547576301615,0,0,1,0,0
+Hungaroring,5,Sebastian Vettel,12070,6.0,0.9297658862876255,Ferrari,0.6221178479931682,0,0,0,1,1
+Hungaroring,5,Pierre Gasly,9307,5.0,0.9345794392523364,AlphaTauri,0.47560975609756095,0,0,0,1,0
+Istanbul Park,3,Charles Leclerc,8760,4.0,0.892156862745098,Ferrari,0.6221178479931682,0,0,0,1,1
+Autódromo José Carlos Pace,18,Sergio Pérez,9053,15.0,0.9364406779661016,Aston Martin,0.5879396984924623,0,0,0,0,0
+Circuit de Monaco,16,Valtteri Bottas,9400,14.0,0.95,Williams,0.5628553379658876,0,0,0,0,0
+Albert Park Grand Prix Circuit,5,Fernando Alonso,10833,4.0,0.9411764705882353,Ferrari,0.6221178479931682,0,0,0,0,0
+Autódromo Internacional do Algarve,11,George Russell,8477,16.0,0.9259259259259259,Williams,0.5628553379658876,0,0,0,0,0
+Suzuka Circuit,16,Fernando Alonso,8838,3.0,0.9411764705882353,Alpine F1,0.5452775073028238,0,0,1,0,1
+Sochi Autodrom,14,Sebastian Vettel,12140,13.0,0.9297658862876255,Ferrari,0.6221178479931682,1,0,0,0,0
+Hungaroring,13,Sergio Pérez,9312,,0.9364406779661016,Aston Martin,0.5879396984924623,0,0,0,0,0
+Autódromo José Carlos Pace,15,Daniel Ricciardo,8548,13.0,0.9523809523809523,AlphaTauri,0.47560975609756095,0,0,0,1,0
+Bahrain International Circuit,5,Valtteri Bottas,9365,4.0,0.95,Williams,0.5628553379658876,0,0,0,0,0
+Sochi Autodrom,12,Lance Stroll,8004,,0.8925619834710744,Aston Martin,0.5879396984924623,1,0,0,0,0
+Bahrain International Circuit,9,Lando Norris,7078,6.0,0.9506172839506173,McLaren,0.6156369600874795,1,0,0,0,0
+Circuit de Barcelona-Catalunya,6,Carlos Sainz,9747,7.0,0.9012345679012346,Ferrari,0.6221178479931682,0,0,0,0,1
+Circuit de Spa-Francorchamps,7,Nico Hülkenberg,10602,4.0,0.9021739130434783,Aston Martin,0.5879396984924623,0,0,1,0,1
+Shanghai International Circuit,15,Kevin Magnussen,7867,13.0,0.9290780141843972,McLaren,0.6156369600874795,0,0,1,0,0
+Marina Bay Street Circuit,2,Daniel Ricciardo,9577,2.0,0.9523809523809523,Red Bull,0.776657060518732,0,0,0,0,0
+Valencia Street Circuit,1,Sebastian Vettel,8395,1.0,0.9297658862876255,Red Bull,0.776657060518732,0,0,0,0,0
+Yas Marina Circuit,3,Lando Norris,8065,7.0,0.9506172839506173,McLaren,0.6156369600874795,1,0,0,0,0
+Autódromo José Carlos Pace,4,Fernando Alonso,9216,2.0,0.9411764705882353,Alpine F1,0.5452775073028238,0,0,0,0,0
+Losail International Circuit,7,Max Verstappen,8818,2.0,0.9074074074074074,Red Bull,0.776657060518732,1,0,0,0,0
+Yas Marina Circuit,2,Sebastian Vettel,9620,1.0,0.9297658862876255,Red Bull,0.776657060518732,1,0,0,0,0
+Circuit de Barcelona-Catalunya,6,Sebastian Vettel,10544,3.0,0.9297658862876255,Ferrari,0.6221178479931682,0,0,0,0,0
+Autodromo Nazionale di Monza,12,Sergio Pérez,8262,2.0,0.9364406779661016,Alfa Romeo,0.38107202680067,0,0,1,0,0
+Sepang International Circuit,20,Lewis Hamilton,9218,6.0,0.941747572815534,McLaren,0.6156369600874795,0,0,1,0,0
+Suzuka Circuit,6,Sebastian Vettel,10691,4.0,0.9297658862876255,Ferrari,0.6221178479931682,0,0,0,0,1
+Istanbul Park,12,Fernando Alonso,10532,8.0,0.9411764705882353,Ferrari,0.6221178479931682,0,0,0,0,0
+Sochi Autodrom,10,Sebastian Vettel,12504,12.0,0.9297658862876255,Aston Martin,0.5879396984924623,0,0,0,1,1
+Autodromo Nazionale di Monza,5,Daniel Ricciardo,11026,4.0,0.9523809523809523,Alpine F1,0.5452775073028238,0,0,0,0,1
+Circuit Park Zandvoort,3,Valtteri Bottas,11696,3.0,0.95,Mercedes,0.8635547576301615,1,0,0,0,0
+Circuit of the Americas,2,Sebastian Vettel,11069,2.0,0.9297658862876255,Ferrari,0.6221178479931682,1,0,0,0,0
+Suzuka Circuit,17,Sergio Pérez,7926,8.0,0.9364406779661016,Alfa Romeo,0.38107202680067,1,0,1,0,0
+Red Bull Ring,12,Carlos Sainz,7598,,0.9012345679012346,AlphaTauri,0.47560975609756095,0,0,0,0,0
+Circuit de Barcelona-Catalunya,11,Sebastian Vettel,12098,7.0,0.9297658862876255,Ferrari,0.6221178479931682,0,0,0,0,1
+Autódromo Hermanos Rodríguez,6,Esteban Ocon,7712,5.0,0.9545454545454546,Aston Martin,0.5879396984924623,0,0,1,0,0
+Red Bull Ring,12,Pierre Gasly,8180,11.0,0.9345794392523364,AlphaTauri,0.47560975609756095,1,0,0,0,0
+Circuit de Barcelona-Catalunya,10,Esteban Ocon,7544,5.0,0.9545454545454546,Aston Martin,0.5879396984924623,0,0,0,0,0
+Sepang International Circuit,1,Sebastian Vettel,9396,1.0,0.9297658862876255,Red Bull,0.776657060518732,0,0,1,1,1
+Bahrain International Circuit,1,Sebastian Vettel,9060,1.0,0.9297658862876255,Red Bull,0.776657060518732,1,0,0,0,0
+Circuit de Monaco,3,Lewis Hamilton,12193,3.0,0.941747572815534,Mercedes,0.8635547576301615,0,0,0,0,0
+Circuit Paul Ricard,11,Esteban Ocon,7950,,0.9545454545454546,Aston Martin,0.5879396984924623,1,0,1,0,0
+Sepang International Circuit,1,Sebastian Vettel,8682,1.0,0.9297658862876255,Red Bull,0.776657060518732,0,0,1,0,0
+Sepang International Circuit,13,Nico Hülkenberg,10084,14.0,0.9021739130434783,Aston Martin,0.5879396984924623,0,0,0,0,0
+Red Bull Ring,14,Lance Stroll,7185,14.0,0.8925619834710744,Williams,0.5628553379658876,1,0,0,0,0
+Circuit of the Americas,1,Lewis Hamilton,11612,1.0,0.941747572815534,Mercedes,0.8635547576301615,1,0,0,0,0
+Autodromo Nazionale di Monza,1,Lewis Hamilton,13026,7.0,0.941747572815534,Mercedes,0.8635547576301615,1,0,0,0,0
+Circuit de Monaco,14,Valtteri Bottas,8672,12.0,0.95,Williams,0.5628553379658876,1,0,0,0,0
+Bahrain International Circuit,18,Sergio Pérez,9942,7.0,0.9364406779661016,Aston Martin,0.5879396984924623,0,0,0,0,0
+Circuit Gilles Villeneuve,12,Kevin Magnussen,7916,9.0,0.9290780141843972,McLaren,0.6156369600874795,0,0,0,0,0
+Circuit of the Americas,12,Fernando Alonso,12870,5.0,0.9411764705882353,McLaren,0.6156369600874795,1,0,0,0,0
+Yas Marina Circuit,9,Fernando Alonso,12905,10.0,0.9411764705882353,McLaren,0.6156369600874795,1,0,0,0,0
+Yas Marina Circuit,9,Kevin Magnussen,8084,11.0,0.9290780141843972,McLaren,0.6156369600874795,1,0,0,0,0
+Shanghai International Circuit,15,Lando Norris,7092,18.0,0.9506172839506173,McLaren,0.6156369600874795,0,0,0,0,0
+Shanghai International Circuit,1,Sebastian Vettel,8325,6.0,0.9297658862876255,Red Bull,0.776657060518732,0,0,0,1,0
+Suzuka Circuit,2,Lewis Hamilton,11220,1.0,0.941747572815534,Mercedes,0.8635547576301615,0,0,0,0,0
+Autodromo Nazionale di Monza,16,Fernando Alonso,12457,18.0,0.9411764705882353,McLaren,0.6156369600874795,0,0,0,0,0
+Circuit Gilles Villeneuve,19,Sebastian Vettel,7646,8.0,0.9297658862876255,AlphaTauri,0.47560975609756095,1,0,0,0,0
+Autodromo Nazionale di Monza,20,Nicholas Latifi,9201,11.0,0.8333333333333334,Williams,0.5628553379658876,1,0,0,0,0
+Circuit de Spa-Francorchamps,13,Pierre Gasly,8607,9.0,0.9345794392523364,AlphaTauri,0.47560975609756095,0,0,0,0,1
+Yas Marina Circuit,10,Nico Hülkenberg,11421,,0.9021739130434783,Alpine F1,0.5452775073028238,0,0,0,0,0
+Bahrain International Circuit,9,Fernando Alonso,11225,7.0,0.9411764705882353,Ferrari,0.6221178479931682,1,0,0,0,0
+Bahrain International Circuit,6,Max Verstappen,7138,,0.9074074074074074,Red Bull,0.776657060518732,0,0,0,0,0
+Silverstone Circuit,4,Sebastian Vettel,9137,3.0,0.9297658862876255,Red Bull,0.776657060518732,0,0,0,0,0
+Albert Park Grand Prix Circuit,5,Charles Leclerc,7822,5.0,0.892156862745098,Ferrari,0.6221178479931682,0,0,0,0,0
+Circuit de Barcelona-Catalunya,4,Max Verstappen,6802,1.0,0.9074074074074074,Red Bull,0.776657060518732,0,0,0,0,0
+Albert Park Grand Prix Circuit,1,Lewis Hamilton,8469,1.0,0.941747572815534,McLaren,0.6156369600874795,0,0,0,0,0
+Marina Bay Street Circuit,1,Sebastian Vettel,8850,1.0,0.9297658862876255,Red Bull,0.776657060518732,1,0,0,0,0
+Autódromo José Carlos Pace,6,Pierre Gasly,8684,2.0,0.9345794392523364,AlphaTauri,0.47560975609756095,1,0,0,0,0
+Silverstone Circuit,16,Kevin Magnussen,9050,12.0,0.9290780141843972,Haas F1 Team,0.3671328671328671,0,0,0,0,1
+Circuit de Monaco,11,Nico Hülkenberg,11239,8.0,0.9021739130434783,Alpine F1,0.5452775073028238,0,0,0,0,0
+Autódromo José Carlos Pace,9,Max Verstappen,6620,9.0,0.9074074074074074,AlphaTauri,0.47560975609756095,0,0,0,0,0
+Autodromo Nazionale di Monza,5,Lewis Hamilton,9379,,0.941747572815534,McLaren,0.6156369600874795,1,0,0,0,0
+Hungaroring,8,Daniel Ricciardo,8793,13.0,0.9523809523809523,AlphaTauri,0.47560975609756095,1,0,0,0,0
+Hungaroring,6,Pierre Gasly,8579,6.0,0.9345794392523364,Red Bull,0.776657060518732,1,0,0,0,0
+Circuit Gilles Villeneuve,13,Sergio Pérez,8899,11.0,0.9364406779661016,Aston Martin,0.5879396984924623,0,0,0,0,0
+Circuit Gilles Villeneuve,4,Lewis Hamilton,12207,5.0,0.941747572815534,Mercedes,0.8635547576301615,0,0,0,0,0
+Autódromo José Carlos Pace,2,Sebastian Vettel,11825,17.0,0.9297658862876255,Ferrari,0.6221178479931682,1,0,0,0,0
+Hungaroring,4,Max Verstappen,6872,5.0,0.9074074074074074,Red Bull,0.776657060518732,1,0,0,0,0
+Circuit de Spa-Francorchamps,1,Lewis Hamilton,10457,3.0,0.941747572815534,Mercedes,0.8635547576301615,0,0,0,0,0
+Jeddah Corniche Circuit,17,Sebastian Vettel,12574,,0.9297658862876255,Aston Martin,0.5879396984924623,1,0,0,0,0
+Red Bull Ring,7,Pierre Gasly,8922,15.0,0.9345794392523364,AlphaTauri,0.47560975609756095,1,0,0,0,0
+Circuit Paul Ricard,17,Lance Stroll,7542,13.0,0.8925619834710744,Aston Martin,0.5879396984924623,1,0,0,0,0
+Autódromo Hermanos Rodríguez,7,Nico Hülkenberg,11393,6.0,0.9021739130434783,Alpine F1,0.5452775073028238,0,0,0,0,0
+Suzuka Circuit,11,Valtteri Bottas,9904,10.0,0.95,Williams,0.5628553379658876,0,0,0,0,1
+Nürburgring,5,Alexander Albon,8968,,0.9310344827586207,Red Bull,0.776657060518732,0,0,0,0,0
+Circuit de Monaco,13,Fernando Alonso,12352,,0.9411764705882353,McLaren,0.6156369600874795,0,0,0,0,0
+Marina Bay Street Circuit,11,Nico Hülkenberg,9167,14.0,0.9021739130434783,Aston Martin,0.5879396984924623,1,0,0,0,0
+Bahrain International Circuit,7,Daniel Ricciardo,11481,5.0,0.9523809523809523,Alpine F1,0.5452775073028238,1,0,0,0,0
+Hockenheimring,4,Pierre Gasly,8572,14.0,0.9345794392523364,Red Bull,0.776657060518732,0,0,0,0,1
+Sochi Autodrom,17,Pierre Gasly,8271,,0.9345794392523364,AlphaTauri,0.47560975609756095,0,0,0,0,0
+Circuit of the Americas,11,Nico Hülkenberg,11764,9.0,0.9021739130434783,Alpine F1,0.5452775073028238,1,0,0,0,0
+Yas Marina Circuit,3,Charles Leclerc,8081,3.0,0.892156862745098,Ferrari,0.6221178479931682,1,0,0,0,0
+Marina Bay Street Circuit,17,Sergio Pérez,9732,8.0,0.9364406779661016,Aston Martin,0.5879396984924623,0,0,0,0,0
+Bahrain International Circuit,2,Sebastian Vettel,11594,5.0,0.9297658862876255,Ferrari,0.6221178479931682,1,0,0,0,0
+Marina Bay Street Circuit,16,Kevin Magnussen,9477,18.0,0.9290780141843972,Haas F1 Team,0.3671328671328671,0,0,0,0,0
+Circuit de Barcelona-Catalunya,6,Daniel Ricciardo,10543,5.0,0.9523809523809523,Red Bull,0.776657060518732,0,0,0,0,1
+Red Bull Ring,12,Carlos Sainz,9796,6.0,0.9012345679012346,Ferrari,0.6221178479931682,0,0,0,0,0
+Indianapolis Motor Speedway,6,Fernando Alonso,8726,,0.9411764705882353,Alpine F1,0.5452775073028238,0,0,0,0,0
+Baku City Circuit,12,Kevin Magnussen,9701,13.0,0.9290780141843972,Haas F1 Team,0.3671328671328671,0,0,0,0,0
+Circuit de Monaco,17,Lance Stroll,7150,17.0,0.8925619834710744,Williams,0.5628553379658876,0,0,0,0,0
+Autódromo José Carlos Pace,16,Lance Stroll,6954,16.0,0.8925619834710744,Williams,0.5628553379658876,0,0,0,0,0
+Yas Marina Circuit,12,Nico Hülkenberg,9958,6.0,0.9021739130434783,Aston Martin,0.5879396984924623,1,0,0,0,0
+Circuit de Monaco,15,Esteban Ocon,7558,12.0,0.9545454545454546,Aston Martin,0.5879396984924623,0,0,0,0,0
+Autódromo Hermanos Rodríguez,3,Max Verstappen,8804,1.0,0.9074074074074074,Red Bull,0.776657060518732,1,0,0,0,0
+Bahrain International Circuit,20,Sebastian Vettel,12322,15.0,0.9297658862876255,Aston Martin,0.5879396984924623,0,0,0,0,0
+Autódromo José Carlos Pace,4,Sergio Pérez,11615,4.0,0.9364406779661016,Red Bull,0.776657060518732,1,0,0,0,0
+Nürburgring,15,Kevin Magnussen,10233,13.0,0.9290780141843972,Haas F1 Team,0.3671328671328671,0,0,0,0,0
+Circuit de Barcelona-Catalunya,2,Fernando Alonso,11246,2.0,0.9411764705882353,Ferrari,0.6221178479931682,0,0,0,0,0
+Yas Marina Circuit,12,Lance Stroll,7703,,0.8925619834710744,Aston Martin,0.5879396984924623,1,0,0,0,0
+Suzuka Circuit,14,Daniel Ricciardo,8499,10.0,0.9523809523809523,AlphaTauri,0.47560975609756095,1,0,0,0,0
+Red Bull Ring,8,Pierre Gasly,8544,7.0,0.9345794392523364,Red Bull,0.776657060518732,0,0,0,0,0
+Circuit Paul Ricard,5,Lando Norris,7162,9.0,0.9506172839506173,McLaren,0.6156369600874795,1,0,0,0,0
+Red Bull Ring,9,Lance Stroll,8284,13.0,0.8925619834710744,Aston Martin,0.5879396984924623,0,0,0,0,1
+Yas Marina Circuit,15,Lance Stroll,6968,18.0,0.8925619834710744,Williams,0.5628553379658876,1,0,0,0,0
+Baku City Circuit,13,Daniel Ricciardo,11663,9.0,0.9523809523809523,McLaren,0.6156369600874795,1,0,0,0,0
+Circuit Paul Ricard,9,Kevin Magnussen,9393,6.0,0.9290780141843972,Haas F1 Team,0.3671328671328671,1,0,1,0,0
+Silverstone Circuit,5,Max Verstappen,7586,,0.9074074074074074,Red Bull,0.776657060518732,1,0,0,0,0
+Sepang International Circuit,15,Daniel Ricciardo,8303,12.0,0.9523809523809523,AlphaTauri,0.47560975609756095,0,0,0,1,1
+Red Bull Ring,1,Max Verstappen,8678,1.0,0.9074074074074074,Red Bull,0.776657060518732,0,0,0,0,1
+Hockenheimring,1,Lewis Hamilton,12620,9.0,0.941747572815534,Mercedes,0.8635547576301615,0,0,0,0,1
+Hungaroring,6,Daniel Ricciardo,10256,,0.9523809523809523,Red Bull,0.776657060518732,1,0,0,0,0
+Bahrain International Circuit,3,Sebastian Vettel,7968,2.0,0.9297658862876255,Red Bull,0.776657060518732,1,0,0,0,0
+Marina Bay Street Circuit,13,Nico Hülkenberg,9895,9.0,0.9021739130434783,Aston Martin,0.5879396984924623,0,0,0,0,0
+Circuit de Monaco,3,Daniel Ricciardo,9094,3.0,0.9523809523809523,Red Bull,0.776657060518732,0,0,0,0,0
+Circuit de Monaco,0,Max Verstappen,6816,,0.9074074074074074,Red Bull,0.776657060518732,0,0,1,1,0
+Autodromo Enzo e Dino Ferrari,15,Fernando Alonso,14508,10.0,0.9411764705882353,Alpine F1,0.5452775073028238,0,0,1,1,0
+Marina Bay Street Circuit,10,Valtteri Bottas,9883,,0.95,Williams,0.5628553379658876,0,0,0,0,0
+Silverstone Circuit,9,Alexander Albon,8905,5.0,0.9310344827586207,Red Bull,0.776657060518732,1,0,0,0,0
+Silverstone Circuit,12,Carlos Sainz,9474,13.0,0.9012345679012346,McLaren,0.6156369600874795,1,0,0,0,0
+Shanghai International Circuit,17,George Russell,7728,16.0,0.9259259259259259,Williams,0.5628553379658876,0,0,0,0,0
+Autodromo Nazionale di Monza,13,Fernando Alonso,13549,,0.9411764705882353,McLaren,0.6156369600874795,0,0,0,0,0
+Circuit Paul Ricard,10,Daniel Ricciardo,11677,6.0,0.9523809523809523,McLaren,0.6156369600874795,0,0,0,0,0
+Shanghai International Circuit,9,Lewis Hamilton,8868,6.0,0.941747572815534,McLaren,0.6156369600874795,0,0,0,1,0
+Autódromo José Carlos Pace,3,Sebastian Vettel,10362,3.0,0.9297658862876255,Ferrari,0.6221178479931682,0,0,0,0,0
+Circuit de Spa-Francorchamps,14,George Russell,7868,15.0,0.9259259259259259,Williams,0.5628553379658876,0,0,0,0,1
+Circuit de Barcelona-Catalunya,4,Charles Leclerc,8606,4.0,0.892156862745098,Ferrari,0.6221178479931682,0,0,0,0,1
+Circuit of the Americas,14,Nicholas Latifi,9614,15.0,0.8333333333333334,Williams,0.5628553379658876,1,0,0,0,0
+Circuit de Spa-Francorchamps,7,Sergio Pérez,10810,6.0,0.9364406779661016,Aston Martin,0.5879396984924623,0,0,0,0,1
+Valencia Street Circuit,8,Fernando Alonso,10252,6.0,0.9411764705882353,Alpine F1,0.5452775073028238,1,0,1,0,0
+Valencia Street Circuit,2,Lewis Hamilton,10030,19.0,0.941747572815534,McLaren,0.6156369600874795,1,0,0,0,0
+Yas Marina Circuit,19,Mick Schumacher,8301,14.0,0.9302325581395349,Haas F1 Team,0.3671328671328671,1,0,0,0,0
+Autódromo José Carlos Pace,17,Fernando Alonso,13619,17.0,0.9411764705882353,McLaren,0.6156369600874795,0,0,0,0,0
+Nürburgring,6,Fernando Alonso,8705,1.0,0.9411764705882353,Alpine F1,0.5452775073028238,1,0,1,0,0
+Circuit de Monaco,6,Daniel Ricciardo,10921,9.0,0.9523809523809523,Alpine F1,0.5452775073028238,0,0,0,0,1
+Hungaroring,12,Sergio Pérez,8948,,0.9364406779661016,Aston Martin,0.5879396984924623,0,0,0,1,0
+Hockenheimring,5,Daniel Ricciardo,9150,6.0,0.9523809523809523,Red Bull,0.776657060518732,0,0,0,0,1
+Yas Marina Circuit,15,Valtteri Bottas,8833,15.0,0.95,Williams,0.5628553379658876,1,0,0,0,0
+Yas Marina Circuit,6,Carlos Sainz,9600,6.0,0.9012345679012346,McLaren,0.6156369600874795,1,0,0,0,0
+Sepang International Circuit,15,Pierre Gasly,7907,14.0,0.9345794392523364,AlphaTauri,0.47560975609756095,0,0,0,0,1
+Circuit de Barcelona-Catalunya,15,Nico Hülkenberg,9398,15.0,0.9021739130434783,Alfa Romeo,0.38107202680067,1,0,0,0,0
+Albert Park Grand Prix Circuit,7,Kevin Magnussen,9659,6.0,0.9290780141843972,Haas F1 Team,0.3671328671328671,0,0,0,0,0
+Circuit de Monaco,14,Charles Leclerc,7528,,0.892156862745098,Alfa Romeo,0.38107202680067,0,0,0,0,0
+Jeddah Corniche Circuit,8,Yuki Tsunoda,7878,14.0,0.9069767441860466,AlphaTauri,0.47560975609756095,1,0,0,0,0
+Bahrain International Circuit,20,Nicholas Latifi,9285,14.0,0.8333333333333334,Williams,0.5628553379658876,1,0,0,0,0
+Hockenheimring,18,Lance Stroll,7206,,0.8925619834710744,Williams,0.5628553379658876,0,0,0,1,1
+Shanghai International Circuit,13,Fernando Alonso,13409,7.0,0.9411764705882353,McLaren,0.6156369600874795,0,0,0,0,0
+Circuit de Barcelona-Catalunya,18,Sebastian Vettel,7604,,0.9297658862876255,AlphaTauri,0.47560975609756095,1,0,0,0,0
+Autodromo Nazionale di Monza,17,Sebastian Vettel,12119,,0.9297658862876255,Ferrari,0.6221178479931682,1,0,0,0,0
+Autódromo Hermanos Rodríguez,11,Lance Stroll,6940,6.0,0.8925619834710744,Williams,0.5628553379658876,0,0,1,0,0
+Yas Marina Circuit,8,Sergio Pérez,9802,8.0,0.9364406779661016,Aston Martin,0.5879396984924623,1,0,0,0,0
+Autodromo Nazionale di Monza,6,Carlos Sainz,9873,6.0,0.9012345679012346,Ferrari,0.6221178479931682,1,0,0,0,0
+Circuit de Barcelona-Catalunya,2,Valtteri Bottas,10485,2.0,0.95,Mercedes,0.8635547576301615,0,0,0,0,1
+Albert Park Grand Prix Circuit,12,Sergio Pérez,10285,11.0,0.9364406779661016,Aston Martin,0.5879396984924623,1,0,0,0,0
+Yas Marina Circuit,2,Lewis Hamilton,9442,2.0,0.941747572815534,McLaren,0.6156369600874795,0,0,0,0,0
+Autódromo Hermanos Rodríguez,8,Max Verstappen,6606,9.0,0.9074074074074074,AlphaTauri,0.47560975609756095,0,0,0,0,0
+Circuit de Barcelona-Catalunya,13,Fernando Alonso,12338,,0.9411764705882353,McLaren,0.6156369600874795,0,0,0,0,0
+Autodromo Nazionale di Monza,10,Sergio Pérez,10082,9.0,0.9364406779661016,Aston Martin,0.5879396984924623,1,0,0,0,0
+Autodromo Nazionale di Monza,14,George Russell,7875,14.0,0.9259259259259259,Williams,0.5628553379658876,0,0,0,0,1
+Bahrain International Circuit,6,Daniel Ricciardo,11474,7.0,0.9523809523809523,Alpine F1,0.5452775073028238,1,0,0,0,0
+Circuit Gilles Villeneuve,2,Sebastian Vettel,10936,4.0,0.9297658862876255,Ferrari,0.6221178479931682,1,0,0,0,0
+Red Bull Ring,7,Daniel Ricciardo,10592,,0.9523809523809523,Red Bull,0.776657060518732,1,0,0,0,0
+Circuit de Barcelona-Catalunya,2,Sebastian Vettel,7982,4.0,0.9297658862876255,Red Bull,0.776657060518732,1,0,0,0,0
+Autodromo Nazionale di Monza,9,Lance Stroll,8354,7.0,0.8925619834710744,Aston Martin,0.5879396984924623,1,0,0,0,0
+Autódromo José Carlos Pace,10,Kevin Magnussen,9533,9.0,0.9290780141843972,Haas F1 Team,0.3671328671328671,0,0,0,0,0
+Albert Park Grand Prix Circuit,16,Lance Stroll,7444,9.0,0.8925619834710744,Aston Martin,0.5879396984924623,0,0,0,0,0
+Valencia Street Circuit,4,Fernando Alonso,10924,2.0,0.9411764705882353,Ferrari,0.6221178479931682,1,0,0,0,0
+Albert Park Grand Prix Circuit,12,Fernando Alonso,11190,5.0,0.9411764705882353,Ferrari,0.6221178479931682,0,0,0,0,0
+Circuit de Monaco,11,Kevin Magnussen,9001,10.0,0.9290780141843972,Haas F1 Team,0.3671328671328671,0,0,0,0,0
+Silverstone Circuit,0,Sergio Pérez,11496,16.0,0.9364406779661016,Red Bull,0.776657060518732,0,0,0,0,0
+Circuit de Monaco,15,Daniel Ricciardo,8366,,0.9523809523809523,AlphaTauri,0.47560975609756095,1,0,0,1,0
+Autódromo Hermanos Rodríguez,5,Alexander Albon,8618,5.0,0.9310344827586207,Red Bull,0.776657060518732,0,0,0,0,1
+Sepang International Circuit,4,Lewis Hamilton,10303,3.0,0.941747572815534,Mercedes,0.8635547576301615,0,0,1,1,1
+Red Bull Ring,4,Daniel Ricciardo,10235,3.0,0.9523809523809523,Red Bull,0.776657060518732,0,0,0,0,1
+Circuit de Barcelona-Catalunya,3,Daniel Ricciardo,9080,3.0,0.9523809523809523,Red Bull,0.776657060518732,1,0,0,0,0
+Albert Park Grand Prix Circuit,17,Pierre Gasly,8439,11.0,0.9345794392523364,Red Bull,0.776657060518732,0,0,0,0,0
+Autódromo José Carlos Pace,7,Kevin Magnussen,8070,9.0,0.9290780141843972,McLaren,0.6156369600874795,0,0,0,0,0
+Autódromo Internacional do Algarve,6,Esteban Ocon,8993,7.0,0.9545454545454546,Alpine F1,0.5452775073028238,0,0,0,0,0
+Suzuka Circuit,10,Carlos Sainz,7696,10.0,0.9012345679012346,AlphaTauri,0.47560975609756095,0,0,0,0,0
+Sochi Autodrom,9,Sergio Pérez,9956,6.0,0.9364406779661016,Aston Martin,0.5879396984924623,0,0,0,0,0
+Hockenheimring,9,Nico Hülkenberg,9832,7.0,0.9021739130434783,Aston Martin,0.5879396984924623,0,0,0,0,1
+Baku City Circuit,16,Nicholas Latifi,9474,16.0,0.8333333333333334,Williams,0.5628553379658876,1,0,0,0,0
+Circuit de Barcelona-Catalunya,10,Lando Norris,7120,,0.9506172839506173,McLaren,0.6156369600874795,0,0,0,0,0
+Istanbul Park,3,Fernando Alonso,9160,2.0,0.9411764705882353,Alpine F1,0.5452775073028238,1,0,0,0,0
+Yas Marina Circuit,8,Charles Leclerc,7710,7.0,0.892156862745098,Alfa Romeo,0.38107202680067,0,0,0,0,0
+Korean International Circuit,7,Nico Hülkenberg,9545,4.0,0.9021739130434783,Alfa Romeo,0.38107202680067,0,0,0,0,1
+Autodromo Nazionale di Monza,8,Sergio Pérez,9718,8.0,0.9364406779661016,Aston Martin,0.5879396984924623,1,0,0,0,0
+Autodromo Nazionale di Monza,19,Max Verstappen,8013,8.0,0.9074074074074074,Red Bull,0.776657060518732,0,0,0,0,1
+Autódromo José Carlos Pace,1,Valtteri Bottas,11766,3.0,0.95,Mercedes,0.8635547576301615,1,0,0,0,0
+Yas Marina Circuit,15,Fernando Alonso,13633,11.0,0.9411764705882353,McLaren,0.6156369600874795,0,0,0,0,0
+Circuit de Barcelona-Catalunya,5,Fernando Alonso,11610,1.0,0.9411764705882353,Ferrari,0.6221178479931682,1,0,0,0,0
+Istanbul Park,2,Max Verstappen,8776,2.0,0.9074074074074074,Red Bull,0.776657060518732,0,0,0,1,1
+Sochi Autodrom,5,Daniel Ricciardo,11775,4.0,0.9523809523809523,McLaren,0.6156369600874795,0,0,0,1,1
+Autódromo José Carlos Pace,13,Sebastian Vettel,7415,,0.9297658862876255,AlphaTauri,0.47560975609756095,0,0,0,0,0
+Autodromo Nazionale di Monza,9,Pierre Gasly,8243,14.0,0.9345794392523364,AlphaTauri,0.47560975609756095,0,0,0,0,0
+Autodromo Internazionale del Mugello,2,Valtteri Bottas,11339,2.0,0.95,Mercedes,0.8635547576301615,1,0,0,0,0
+Albert Park Grand Prix Circuit,18,Lewis Hamilton,8847,,0.941747572815534,McLaren,0.6156369600874795,1,0,0,0,0
+Sochi Autodrom,0,Alexander Albon,8590,5.0,0.9310344827586207,Red Bull,0.776657060518732,0,0,0,0,1
+Istanbul Park,12,Esteban Ocon,9154,10.0,0.9545454545454546,Alpine F1,0.5452775073028238,0,0,0,1,1
+Silverstone Circuit,2,Valtteri Bottas,11297,11.0,0.95,Mercedes,0.8635547576301615,0,0,0,0,1
+Marina Bay Street Circuit,7,Fernando Alonso,11743,2.0,0.9411764705882353,Ferrari,0.6221178479931682,0,0,1,0,0
+Istanbul Park,6,Lewis Hamilton,13096,1.0,0.941747572815534,Mercedes,0.8635547576301615,0,0,1,1,0
+Baku City Circuit,7,Lando Norris,7106,8.0,0.9506172839506173,McLaren,0.6156369600874795,0,0,0,0,0
+Shanghai International Circuit,4,Fernando Alonso,9944,4.0,0.9411764705882353,Alpine F1,0.5452775073028238,0,0,1,0,0
+Autodromo Nazionale di Monza,10,Lance Stroll,7248,9.0,0.8925619834710744,Williams,0.5628553379658876,0,0,0,0,0
+Yas Marina Circuit,19,Sergio Pérez,11279,,0.9364406779661016,Aston Martin,0.5879396984924623,1,0,0,0,0
+Yas Marina Circuit,8,Lance Stroll,8081,10.0,0.8925619834710744,Aston Martin,0.5879396984924623,1,0,0,0,0
+Silverstone Circuit,18,Nicholas Latifi,9166,15.0,0.8333333333333334,Williams,0.5628553379658876,0,0,0,0,1
+Circuit Paul Ricard,8,Lando Norris,7890,5.0,0.9506172839506173,McLaren,0.6156369600874795,0,0,0,0,0
+Marina Bay Street Circuit,7,Nico Hülkenberg,10987,,0.9021739130434783,Alpine F1,0.5452775073028238,0,0,0,1,0
+Hungaroring,10,Valtteri Bottas,9827,9.0,0.95,Williams,0.5628553379658876,1,0,0,0,0
+Hungaroring,8,Esteban Ocon,9084,1.0,0.9545454545454546,Alpine F1,0.5452775073028238,0,0,0,1,0
+Autodromo Nazionale di Monza,2,Sebastian Vettel,11384,4.0,0.9297658862876255,Ferrari,0.6221178479931682,0,0,0,0,0
+Suzuka Circuit,12,Kevin Magnussen,9134,8.0,0.9290780141843972,Haas F1 Team,0.3671328671328671,1,0,0,0,0
+Circuit de Monaco,10,Nico Hülkenberg,9048,8.0,0.9021739130434783,Aston Martin,0.5879396984924623,1,0,0,1,0
+Hungaroring,11,Nico Hülkenberg,10203,,0.9021739130434783,Aston Martin,0.5879396984924623,0,0,0,0,0
+Circuit of the Americas,7,Nico Hülkenberg,10658,,0.9021739130434783,Aston Martin,0.5879396984924623,1,0,0,0,0
+Silverstone Circuit,5,Pierre Gasly,8558,4.0,0.9345794392523364,Red Bull,0.776657060518732,0,0,0,0,1
+Bahrain International Circuit,13,Pierre Gasly,8453,8.0,0.9345794392523364,Red Bull,0.776657060518732,1,0,0,0,0
+Circuit of the Americas,19,Fernando Alonso,14697,,0.9411764705882353,Alpine F1,0.5452775073028238,1,0,0,0,0
+Circuit de Barcelona-Catalunya,8,Kevin Magnussen,9715,7.0,0.9290780141843972,Haas F1 Team,0.3671328671328671,0,0,0,0,0
+Circuit de Monaco,2,Lewis Hamilton,10366,4.0,0.941747572815534,Mercedes,0.8635547576301615,1,0,0,0,0
+Hungaroring,6,Charles Leclerc,8312,11.0,0.892156862745098,Ferrari,0.6221178479931682,0,0,0,1,1
+Shanghai International Circuit,17,Pierre Gasly,8103,18.0,0.9345794392523364,AlphaTauri,0.47560975609756095,0,0,0,0,0
+Circuit de Monaco,12,Daniel Ricciardo,8730,,0.9523809523809523,AlphaTauri,0.47560975609756095,1,0,0,0,0
+Sochi Autodrom,10,Esteban Ocon,7530,7.0,0.9545454545454546,Aston Martin,0.5879396984924623,0,0,0,0,0
+Bahrain International Circuit,5,Pierre Gasly,8096,4.0,0.9345794392523364,AlphaTauri,0.47560975609756095,0,0,0,0,0
+Yas Marina Circuit,11,Daniel Ricciardo,11488,7.0,0.9523809523809523,Alpine F1,0.5452775073028238,1,0,0,0,0
+Autódromo Hermanos Rodríguez,9,Sebastian Vettel,12546,7.0,0.9297658862876255,Aston Martin,0.5879396984924623,1,0,0,0,0
+Marina Bay Street Circuit,15,Kevin Magnussen,8749,10.0,0.9290780141843972,Alpine F1,0.5452775073028238,0,0,0,0,0
+Autódromo Hermanos Rodríguez,2,Max Verstappen,7698,1.0,0.9074074074074074,Red Bull,0.776657060518732,0,0,0,0,0
+Shanghai International Circuit,9,Kevin Magnussen,9687,13.0,0.9290780141843972,Haas F1 Team,0.3671328671328671,0,0,0,0,0
+Marina Bay Street Circuit,12,Sergio Pérez,10096,5.0,0.9364406779661016,Aston Martin,0.5879396984924623,0,0,0,1,0
+Suzuka Circuit,3,Lewis Hamilton,9036,3.0,0.941747572815534,McLaren,0.6156369600874795,0,0,1,0,0
+Red Bull Ring,8,Kevin Magnussen,9400,5.0,0.9290780141843972,Haas F1 Team,0.3671328671328671,1,0,0,0,0
+Suzuka Circuit,12,Kevin Magnussen,9498,,0.9290780141843972,Haas F1 Team,0.3671328671328671,0,0,0,0,0
+Hockenheimring,15,Esteban Ocon,7978,8.0,0.9545454545454546,Aston Martin,0.5879396984924623,0,0,0,1,1
+Autodromo Nazionale di Monza,18,Mick Schumacher,8210,15.0,0.9302325581395349,Haas F1 Team,0.3671328671328671,1,0,0,0,0
+Red Bull Ring,14,Lance Stroll,7549,14.0,0.8925619834710744,Aston Martin,0.5879396984924623,0,0,0,0,0
+Marina Bay Street Circuit,5,Fernando Alonso,11379,3.0,0.9411764705882353,Ferrari,0.6221178479931682,1,0,0,0,0
+Circuit Gilles Villeneuve,1,Lewis Hamilton,11479,1.0,0.941747572815534,Mercedes,0.8635547576301615,0,0,0,0,0
+Autodromo Nazionale di Monza,15,Carlos Sainz,8039,15.0,0.9012345679012346,AlphaTauri,0.47560975609756095,1,0,0,0,0
+Autódromo Hermanos Rodríguez,13,Sergio Pérez,10502,,0.9364406779661016,Aston Martin,0.5879396984924623,0,0,0,0,0
+Autódromo José Carlos Pace,9,Daniel Ricciardo,9262,,0.9523809523809523,Red Bull,0.776657060518732,0,0,0,0,0
+Red Bull Ring,17,George Russell,8176,,0.9259259259259259,Williams,0.5628553379658876,1,0,0,0,0
+Autódromo José Carlos Pace,12,Nico Hülkenberg,9944,8.0,0.9021739130434783,Aston Martin,0.5879396984924623,0,0,0,0,0
+Nürburgring,5,Lewis Hamilton,8952,18.0,0.941747572815534,McLaren,0.6156369600874795,1,0,0,0,1
+Albert Park Grand Prix Circuit,15,Valtteri Bottas,10436,8.0,0.95,Mercedes,0.8635547576301615,1,0,0,0,0
+Autódromo José Carlos Pace,1,Lewis Hamilton,11633,1.0,0.941747572815534,Mercedes,0.8635547576301615,0,0,0,1,0
+Autódromo Internacional do Algarve,10,Daniel Ricciardo,11439,9.0,0.9523809523809523,Alpine F1,0.5452775073028238,0,0,0,0,1
+Nürburgring,3,Max Verstappen,8412,2.0,0.9074074074074074,Red Bull,0.776657060518732,0,0,0,0,0
+Sochi Autodrom,18,Kevin Magnussen,10219,12.0,0.9290780141843972,Haas F1 Team,0.3671328671328671,1,0,0,0,0
+Autodromo Nazionale di Monza,8,Sebastian Vettel,9928,6.0,0.9297658862876255,Red Bull,0.776657060518732,0,0,0,0,0
+Istanbul Park,0,George Russell,8309,16.0,0.9259259259259259,Williams,0.5628553379658876,0,0,1,1,0
+Silverstone Circuit,19,Daniel Ricciardo,10242,5.0,0.9523809523809523,Red Bull,0.776657060518732,0,0,0,0,1
+Circuit de Spa-Francorchamps,10,Lando Norris,7596,7.0,0.9506172839506173,McLaren,0.6156369600874795,0,0,0,0,1
+Yas Marina Circuit,5,Fernando Alonso,11064,2.0,0.9411764705882353,Ferrari,0.6221178479931682,1,0,1,0,0
+Shanghai International Circuit,7,Sergio Pérez,9578,11.0,0.9364406779661016,Aston Martin,0.5879396984924623,0,0,0,0,0
+Circuit Park Zandvoort,12,Lance Stroll,8347,12.0,0.8925619834710744,Aston Martin,0.5879396984924623,1,0,0,0,0
+Hungaroring,7,Max Verstappen,8328,2.0,0.9074074074074074,Red Bull,0.776657060518732,0,0,0,1,1
+Circuit de Barcelona-Catalunya,15,Daniel Ricciardo,8352,13.0,0.9523809523809523,AlphaTauri,0.47560975609756095,0,0,0,0,0
+Circuit de Monaco,5,Kevin Magnussen,9729,14.0,0.9290780141843972,Haas F1 Team,0.3671328671328671,0,0,0,0,1
+Autodromo Enzo e Dino Ferrari,4,Pierre Gasly,9034,,0.9345794392523364,AlphaTauri,0.47560975609756095,0,0,0,0,1
+Hungaroring,15,Carlos Sainz,9831,3.0,0.9012345679012346,Ferrari,0.6221178479931682,0,0,0,1,0
+Bahrain International Circuit,14,Nico Hülkenberg,9377,12.0,0.9021739130434783,Alfa Romeo,0.38107202680067,0,0,0,0,0
+Hockenheimring,14,Lewis Hamilton,12249,1.0,0.941747572815534,Mercedes,0.8635547576301615,0,0,0,1,1
+Autódromo Hermanos Rodríguez,20,Pierre Gasly,7935,13.0,0.9345794392523364,AlphaTauri,0.47560975609756095,0,0,1,0,0
+Circuit de Monaco,9,Fernando Alonso,12723,5.0,0.9411764705882353,McLaren,0.6156369600874795,0,0,1,1,0
+Circuit de Spa-Francorchamps,15,Lance Stroll,6877,11.0,0.8925619834710744,Williams,0.5628553379658876,0,0,1,0,1
+Hockenheimring,2,Max Verstappen,7971,1.0,0.9074074074074074,Red Bull,0.776657060518732,0,0,0,0,1
+Sochi Autodrom,18,Nicholas Latifi,9586,19.0,0.8333333333333334,Williams,0.5628553379658876,0,0,0,1,1
+Circuit Gilles Villeneuve,3,Charles Leclerc,7906,3.0,0.892156862745098,Ferrari,0.6221178479931682,0,0,0,0,0
+Shanghai International Circuit,12,Kevin Magnussen,8952,8.0,0.9290780141843972,Haas F1 Team,0.3671328671328671,0,0,1,1,0
+Red Bull Ring,10,Sebastian Vettel,12063,,0.9297658862876255,Ferrari,0.6221178479931682,1,0,0,0,0
+Red Bull Ring,10,Kevin Magnussen,9764,19.0,0.9290780141843972,Haas F1 Team,0.3671328671328671,0,0,0,0,0
+Circuit Park Zandvoort,17,Mick Schumacher,8203,18.0,0.9302325581395349,Haas F1 Team,0.3671328671328671,1,0,0,0,0
+Red Bull Ring,5,Lewis Hamilton,12963,4.0,0.941747572815534,Mercedes,0.8635547576301615,1,0,0,0,0
+Autódromo Hermanos Rodríguez,3,Lewis Hamilton,11983,9.0,0.941747572815534,Mercedes,0.8635547576301615,0,0,1,0,0
+Circuit de Spa-Francorchamps,3,Valtteri Bottas,10226,5.0,0.95,Mercedes,0.8635547576301615,0,0,1,0,1
+Silverstone Circuit,3,Nico Hülkenberg,12044,7.0,0.9021739130434783,Aston Martin,0.5879396984924623,1,0,0,0,0
+Shanghai International Circuit,4,Fernando Alonso,9566,2.0,0.9411764705882353,McLaren,0.6156369600874795,0,0,0,1,0
+Albert Park Grand Prix Circuit,1,Sebastian Vettel,8668,1.0,0.9297658862876255,Red Bull,0.776657060518732,0,0,0,0,0
+Bahrain International Circuit,10,Lance Stroll,8186,10.0,0.8925619834710744,Aston Martin,0.5879396984924623,0,0,0,0,0
+Albert Park Grand Prix Circuit,2,Sebastian Vettel,10859,1.0,0.9297658862876255,Ferrari,0.6221178479931682,0,0,0,0,0
+Circuit de Barcelona-Catalunya,15,Sergio Pérez,10698,15.0,0.9364406779661016,Aston Martin,0.5879396984924623,0,0,0,0,0
+Circuit Paul Ricard,1,Lewis Hamilton,12585,1.0,0.941747572815534,Mercedes,0.8635547576301615,1,0,0,0,0
+Buddh International Circuit,9,Sergio Pérez,8675,5.0,0.9364406779661016,McLaren,0.6156369600874795,0,0,0,0,1
+Circuit de Barcelona-Catalunya,8,Fernando Alonso,8320,4.0,0.9411764705882353,Alpine F1,0.5452775073028238,1,0,0,0,0
+Shanghai International Circuit,13,Fernando Alonso,13038,,0.9411764705882353,McLaren,0.6156369600874795,0,0,1,1,0
+Yas Marina Circuit,6,Valtteri Bottas,11794,6.0,0.95,Mercedes,0.8635547576301615,1,0,0,0,0
+Nürburgring,20,Nico Hülkenberg,12107,8.0,0.9021739130434783,Aston Martin,0.5879396984924623,0,0,0,0,0
+Shanghai International Circuit,8,Nico Hülkenberg,9741,6.0,0.9021739130434783,Aston Martin,0.5879396984924623,0,0,1,0,0
+Circuit de Barcelona-Catalunya,3,Sebastian Vettel,10173,3.0,0.9297658862876255,Ferrari,0.6221178479931682,0,0,0,0,0
+Istanbul Park,7,Esteban Ocon,8825,11.0,0.9545454545454546,Alpine F1,0.5452775073028238,0,0,1,1,0
+Hockenheimring,3,Valtteri Bottas,10926,,0.95,Mercedes,0.8635547576301615,0,0,0,0,1
+Circuit de Monaco,6,Esteban Ocon,7922,6.0,0.9545454545454546,Aston Martin,0.5879396984924623,0,0,0,0,0
+Albert Park Grand Prix Circuit,1,Lewis Hamilton,11024,1.0,0.941747572815534,Mercedes,0.8635547576301615,0,0,0,0,0
+Autodromo Nazionale di Monza,9,Sebastian Vettel,8108,8.0,0.9297658862876255,Red Bull,0.776657060518732,1,0,0,0,0
+Hungaroring,1,Fernando Alonso,10224,,0.9411764705882353,Alpine F1,0.5452775073028238,0,0,0,0,0
+Autodromo Enzo e Dino Ferrari,11,Carlos Sainz,9726,5.0,0.9012345679012346,Ferrari,0.6221178479931682,0,0,1,1,0
+Hungaroring,4,Lewis Hamilton,8966,1.0,0.941747572815534,McLaren,0.6156369600874795,0,0,0,0,0
+Albert Park Grand Prix Circuit,13,Fernando Alonso,8621,3.0,0.9411764705882353,Alpine F1,0.5452775073028238,0,0,0,0,1
+Circuit de Spa-Francorchamps,1,Sebastian Vettel,8822,1.0,0.9297658862876255,Red Bull,0.776657060518732,0,0,1,0,0
+Yas Marina Circuit,20,Lance Stroll,7332,13.0,0.8925619834710744,Williams,0.5628553379658876,0,0,0,0,0
+Shanghai International Circuit,3,Lewis Hamilton,9596,1.0,0.941747572815534,McLaren,0.6156369600874795,1,0,0,0,0
+Silverstone Circuit,1,Valtteri Bottas,10912,2.0,0.95,Mercedes,0.8635547576301615,0,0,0,0,1
+Red Bull Ring,11,Sebastian Vettel,12056,10.0,0.9297658862876255,Ferrari,0.6221178479931682,1,0,0,0,0
+Circuit Gilles Villeneuve,4,Valtteri Bottas,9050,7.0,0.95,Williams,0.5628553379658876,0,0,0,0,0
+Marina Bay Street Circuit,2,Lewis Hamilton,12676,4.0,0.941747572815534,Mercedes,0.8635547576301615,0,0,0,0,1
+Silverstone Circuit,7,Kevin Magnussen,9407,9.0,0.9290780141843972,Haas F1 Team,0.3671328671328671,1,0,0,0,0
+Shanghai International Circuit,14,Carlos Sainz,7528,13.0,0.9012345679012346,AlphaTauri,0.47560975609756095,0,0,0,0,0
+Autodromo Nazionale di Monza,8,Sergio Pérez,11552,5.0,0.9364406779661016,Red Bull,0.776657060518732,1,0,0,0,0
+Yas Marina Circuit,1,Lewis Hamilton,12375,1.0,0.941747572815534,Mercedes,0.8635547576301615,0,0,0,0,0
+Hungaroring,1,Max Verstappen,7978,2.0,0.9074074074074074,Red Bull,0.776657060518732,1,0,0,0,0
+Yas Marina Circuit,5,Daniel Ricciardo,10739,4.0,0.9523809523809523,Red Bull,0.776657060518732,0,0,0,0,0
+Shanghai International Circuit,3,Sebastian Vettel,10145,3.0,0.9297658862876255,Ferrari,0.6221178479931682,0,0,0,0,0
+Suzuka Circuit,7,Pierre Gasly,8278,11.0,0.9345794392523364,AlphaTauri,0.47560975609756095,0,0,0,0,0
+Circuit de Monaco,2,Sebastian Vettel,10922,1.0,0.9297658862876255,Ferrari,0.6221178479931682,0,0,0,0,0
+Autodromo Nazionale di Monza,7,Carlos Sainz,9138,,0.9012345679012346,McLaren,0.6156369600874795,0,0,0,0,1
+Hockenheimring,3,Daniel Ricciardo,9892,2.0,0.9523809523809523,Red Bull,0.776657060518732,0,0,1,0,1
+Baku City Circuit,7,Sergio Pérez,9641,3.0,0.9364406779661016,Aston Martin,0.5879396984924623,0,0,0,0,0
+Sochi Autodrom,2,Lewis Hamilton,11234,1.0,0.941747572815534,Mercedes,0.8635547576301615,0,0,0,0,0
+Circuit Gilles Villeneuve,13,Carlos Sainz,8319,,0.9012345679012346,AlphaTauri,0.47560975609756095,1,0,0,0,0
+Autódromo Internacional do Algarve,3,Max Verstappen,8426,3.0,0.9074074074074074,Red Bull,0.776657060518732,0,0,0,0,1
+Bahrain International Circuit,2,Lewis Hamilton,8133,2.0,0.941747572815534,McLaren,0.6156369600874795,0,0,0,0,0
+Circuit de Spa-Francorchamps,13,Fernando Alonso,10259,,0.9411764705882353,Alpine F1,0.5452775073028238,1,0,0,0,0
+Yas Marina Circuit,1,Lewis Hamilton,11647,1.0,0.941747572815534,Mercedes,0.8635547576301615,1,0,0,0,0
+Circuit Park Zandvoort,9,Fernando Alonso,14648,6.0,0.9411764705882353,Alpine F1,0.5452775073028238,1,0,0,0,0
+Shanghai International Circuit,10,Nico Hülkenberg,9370,10.0,0.9021739130434783,Alfa Romeo,0.38107202680067,0,0,0,0,0
+Yas Marina Circuit,14,Sergio Pérez,10530,8.0,0.9364406779661016,Aston Martin,0.5879396984924623,0,0,0,0,0
+Silverstone Circuit,16,Yuki Tsunoda,7738,10.0,0.9069767441860466,AlphaTauri,0.47560975609756095,0,0,0,0,0
+Hungaroring,5,Fernando Alonso,8418,3.0,0.9411764705882353,Alpine F1,0.5452775073028238,0,0,1,0,0
+Autódromo José Carlos Pace,1,Valtteri Bottas,10303,2.0,0.95,Mercedes,0.8635547576301615,0,0,0,0,0
+Circuit de Barcelona-Catalunya,4,Fernando Alonso,10889,5.0,0.9411764705882353,Ferrari,0.6221178479931682,1,0,0,0,0
+Shanghai International Circuit,11,Carlos Sainz,8256,7.0,0.9012345679012346,AlphaTauri,0.47560975609756095,0,0,1,1,0
+Circuit de Spa-Francorchamps,5,Daniel Ricciardo,9549,,0.9523809523809523,Red Bull,0.776657060518732,0,0,0,0,0
+Autodromo Enzo e Dino Ferrari,18,Mick Schumacher,8063,16.0,0.9302325581395349,Haas F1 Team,0.3671328671328671,0,0,1,1,0
+Circuit de Monaco,9,Fernando Alonso,10161,7.0,0.9411764705882353,Alpine F1,0.5452775073028238,1,0,0,0,0
+Autodromo Nazionale di Monza,10,Pierre Gasly,8978,1.0,0.9345794392523364,AlphaTauri,0.47560975609756095,1,0,0,0,0
+Circuit de Monaco,10,Pierre Gasly,8145,7.0,0.9345794392523364,AlphaTauri,0.47560975609756095,0,0,0,0,0
+Marina Bay Street Circuit,17,Nico Hülkenberg,8439,10.0,0.9021739130434783,Williams,0.5628553379658876,0,0,0,0,0
+Red Bull Ring,19,Mick Schumacher,8140,18.0,0.9302325581395349,Haas F1 Team,0.3671328671328671,0,0,0,0,1
+Circuit de Barcelona-Catalunya,15,Esteban Ocon,8734,13.0,0.9545454545454546,Alpine F1,0.5452775073028238,0,0,0,0,1
+Marina Bay Street Circuit,7,Carlos Sainz,9152,12.0,0.9012345679012346,McLaren,0.6156369600874795,0,0,0,0,1
+Silverstone Circuit,16,Valtteri Bottas,8707,12.0,0.95,Williams,0.5628553379658876,0,0,1,0,0
+Sochi Autodrom,7,Sergio Pérez,9389,3.0,0.9364406779661016,Aston Martin,0.5879396984924623,0,0,0,0,0
+Yas Marina Circuit,5,Alexander Albon,8653,6.0,0.9310344827586207,Red Bull,0.776657060518732,1,0,0,0,0
+Circuit de Monaco,5,Daniel Ricciardo,10193,3.0,0.9523809523809523,Red Bull,0.776657060518732,0,0,0,0,0
+Circuit de Barcelona-Catalunya,5,Max Verstappen,7166,,0.9074074074074074,Red Bull,0.776657060518732,0,0,0,0,0
+Marina Bay Street Circuit,9,Fernando Alonso,12835,7.0,0.9411764705882353,McLaren,0.6156369600874795,0,0,0,0,0
+Circuit of the Americas,7,Nico Hülkenberg,11386,6.0,0.9021739130434783,Alpine F1,0.5452775073028238,0,0,0,0,1
+Albert Park Grand Prix Circuit,1,Lewis Hamilton,11766,2.0,0.941747572815534,Mercedes,0.8635547576301615,0,0,0,0,0
+Circuit Paul Ricard,3,Charles Leclerc,7920,3.0,0.892156862745098,Ferrari,0.6221178479931682,1,0,0,0,0
+Silverstone Circuit,17,Nicholas Latifi,9516,14.0,0.8333333333333334,Williams,0.5628553379658876,0,0,0,0,0
+Autodromo Nazionale di Monza,18,Sergio Pérez,10817,7.0,0.9364406779661016,Aston Martin,0.5879396984924623,0,0,0,0,1
+Suzuka Circuit,1,Sebastian Vettel,8864,3.0,0.9297658862876255,Red Bull,0.776657060518732,1,0,1,0,0
+Sochi Autodrom,12,Nico Hülkenberg,11365,12.0,0.9021739130434783,Alpine F1,0.5452775073028238,0,0,0,0,0
+Autodromo Enzo e Dino Ferrari,6,Daniel Ricciardo,11614,6.0,0.9523809523809523,McLaren,0.6156369600874795,0,0,1,1,0
+Korean International Circuit,6,Fernando Alonso,11036,5.0,0.9411764705882353,Ferrari,0.6221178479931682,0,0,0,1,0
