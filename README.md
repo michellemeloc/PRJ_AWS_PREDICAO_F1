@@ -17,9 +17,12 @@ Ao obter dados históricos e usá-los para ensinar algoritmos de machine learnin
 ## Objetivo
 Através dos dados históricos de diferentes campeonatos de fórmula 1, criar um modelo de aprendizado de máquina que estime quem seria os pilotos com maiores pontuação e ganhadores na F1.
 
-# Soluções
+# Solução e Arquiteutra
 
 Os dados foram obtidos através da API do site ERGAST e via web scraping no wikipedia. No EDA exploramos as principais características que poderiam fazer diferença, como por exemplo o desempenho na chuva e a idade do piloto no momento da corrida. Testamos vários algoritmos de machine learning e o que teve o melhor desempenho foi o Gradient Boosting. Após a criação do modelo, foi criado um método que recebe como parâmetro o nome da corrida e as condições climáticas para predizer quais pilotos pontuariam nesta corrida.
+
+![pi-mlops](https://user-images.githubusercontent.com/36771470/206053071-76f7537d-61bb-495f-b63f-4835d661dbf8.png)
+
 
 # Resultados
 
